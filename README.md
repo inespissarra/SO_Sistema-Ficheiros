@@ -1,3 +1,4 @@
 # SO Sistema de Ficheiros
 
-Projeto de LEIC-A ano 2021/2022
+Projeto da cadeira de Sistemas Operativos de LEIC-A.
+(Ano 2021/2022)
